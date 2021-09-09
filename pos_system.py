@@ -13,7 +13,7 @@ MASTER_FILE_PATH = './master.csv'
 OUT_FILE_PATH = './receipt/{export_at}.txt'
 
 ### マスタークラス
-class Master:
+class PosSystem:
     def __init__(self):
         self.master = []
         self.order = None

@@ -1,7 +1,7 @@
 import eel
 import common.desktop as desktop
 import common.common as common
-from pos_system import Master
+from pos_system import PosSystem
 import eel_function
 import pandas as pd
 import datetime
